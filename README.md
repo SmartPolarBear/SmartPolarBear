@@ -5,7 +5,7 @@ Welcome to visit my Github Profile!
 #### Quick Glance at Me
 
 - ♂️ He/Him
-- 🏫 Year 1 Computer Science Undergraduate
+- 🏫 Year 2 Computer Science Undergraduate
 - 💻 Windows 11. Having been Windows Insider for 5 years. Mostly work with Debian under WSL.
 - 💓 Former UWP Developer of Music+ Player. C#/C++/Kotlin, CMake.
 - 🌱 Learning about compilers and OS kernels.
