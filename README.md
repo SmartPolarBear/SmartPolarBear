@@ -16,7 +16,7 @@ Welcome to visit my Github Profile!
 - Designing boot-time RAM disk format for project-dionysus
 - Learning about database, computer graphic and computer network.
 - Learning Jetpack Compose, a declarative-styled UI framework.
-- It may be the right time to pick up my UWP skills
+- It may be the right time to pick up my  Windows development skills
 
 
 
