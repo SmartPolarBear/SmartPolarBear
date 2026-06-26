@@ -5,8 +5,6 @@ Welcome to visit my GitHub Profile!
 #### Quick Glance at Me
 
 - ♂️ He/Him
-- 🏫 Year 4 Computer Science Undergraduate
-- 💻 Windows 11. Having been Windows Insider for 8 years. Mostly work with Ubuntu under WSL.
 - 💓 Former UWP Developer of Music+ Player. C#/C++/Kotlin. Mostly use CMake for C++ projects.
 - 🌱 Researching 3D computer vision. Learning about compilers and OS kernels.
 - 🔭 Working on [project-dionysus](https://github.com/SmartPolarBear/project-dionysus), [clox](https://github.com/SmartPolarBear/clox) and [barrel](https://github.com/SmartPolarBear/barrel). Also researching point cloud registration using deep learning methods.
